@@ -1,0 +1,20 @@
+number=-25
+print(number)
+number=100
+print(number)
+float=3.14
+print(float)
+float=0.001
+print(float)
+string="python"
+print(string)
+string="hello world"
+print(string)
+boolean=True
+print(boolean)
+boolean=False
+print(boolean)
+complex=5+6j
+print(complex)
+complex=0
+print(complex)
